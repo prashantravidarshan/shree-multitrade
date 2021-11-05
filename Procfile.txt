@@ -1,0 +1,1 @@
+web: gunicorn shree_multi_trade.wsgi
